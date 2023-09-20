@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Novo Gênero</title>
-    <link  href="/app/src/main/webapp/css/bootstrap.min.css" rel="stylesheet">
+    <link  href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
     <div class="container">

@@ -20,7 +20,7 @@
             </tr>
             <c:forEach var="item" items="${generos}">
                 <tr>
-                    <td>${item.Id}</td>
+                    <td>${item.id}</td>
                     <td>${item.nome}</td>
                     <td>
                         <a href="/genero/update?id=${item.id}" class="btn btn-warning">Editar</a>
