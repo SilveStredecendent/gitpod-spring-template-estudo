@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <h1>Gêneros</h1>
-        <a href="/genero/insert" class="btn btn-primary">Nove Gêneros</a>
+        <a href="/genero/insert" class="btn btn-primary">Novos Gêneros</a>
         <table class="table">
             <tr>
                 <th>Id</th>
